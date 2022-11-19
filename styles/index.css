@@ -1,3 +1,8 @@
+p, h2, h3, ol , li{
+    margin-top: 3px;
+    text-align: center;
+    
+}
 .apresentacao{
     margin-top: 20px;
     width: 100%;
