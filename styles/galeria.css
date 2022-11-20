@@ -2,9 +2,11 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    
 }
 body{
-    background-color: #eee;
+    background-color: black;
+    
 }
 header{
     height: 150px;
@@ -14,10 +16,10 @@ header{
 }
 
 header h1{
+    color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 2rem;
     font-weight: 900;
-    color: black;
 }
 
 .galeria_container{

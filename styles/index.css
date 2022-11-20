@@ -1,5 +1,9 @@
+body{
+    background-color: black;
+    color: white;
+}
 .container_conteudo{
-    background-color: white;
+
     margin-top: 2em;
     margin-right: auto;
     margin-left: auto;
