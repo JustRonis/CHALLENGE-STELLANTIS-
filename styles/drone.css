@@ -10,10 +10,11 @@ body{
 }
 
 .apresentacao_drone{
+    margin-top: 2em;
     width: 980px;
     margin-left: auto;
     margin-right: auto;
-}
+} 
 
 .apresentacao_drone p, .apresentacao_drone li{
     font-family: 'Roboto', sans-serif;
@@ -21,18 +22,44 @@ body{
     font-size: 21px;
     
 }
-
-#titulo_principal{
-    font-size: 26px;
-    margin-top: 1em;
+#titt{
     margin-bottom: 0.5em;
-    text-align: center;
+}
+#tit{
+    margin-bottom: 1em;
 }
 
+#tittt{
+    margin-bottom: 0.5em;
+}
 .img{
     width: 100%;
 }
 
+.seguranca{
+    margin-top: 1em;
+}
 
+.seguranca > h2{
+    margin-bottom: 0.5em;
+}
 
+.seguranca > p {
+    text-align: center;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
 
+.energia_limpa {
+    margin-top: 1em;
+}
+
+.energia_limpa > h2{
+    margin-bottom: 0.5em;
+}
+
+.list_energia_limpa{
+    margin-top: 1em;
+    text-align: center;
+    margin-bottom: 1em;
+}
