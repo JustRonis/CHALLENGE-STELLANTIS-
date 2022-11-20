@@ -1,27 +1,38 @@
 body{
-    background-color: lightgray;
-}
-#img1{
-    width: 100%;
-}
-#img2{
-    width: 980px;
-    height: 100%;
+    background-color: white;
 }
 
-#img3{
-    width: 980px;
-    height: 100%;
+.titulo{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 26px;
 }
+
 .apresentacao_drone{
     width: 980px;
     margin-left: auto;
     margin-right: auto;
 }
 
-#titulo{
+.apresentacao_drone p, .apresentacao_drone li{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 21px;
+    
+}
+
+#titulo_principal{
     font-size: 26px;
     margin-top: 1em;
     margin-bottom: 0.5em;
     text-align: center;
 }
+
+.img{
+    width: 100%;
+}
+
+
+
+
