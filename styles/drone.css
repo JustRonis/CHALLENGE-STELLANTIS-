@@ -4,6 +4,7 @@ body{
 }
 
 .titulo{
+    color: #1aff1a;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-weight: 900;
@@ -21,6 +22,7 @@ body{
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 21px;
+    text-align: center;
     
 }
 #titt{
@@ -55,9 +57,3 @@ body{
     margin-bottom: 0.5em;
 }
 
-.list_energia_limpa{
-    margin-top: 1em;
-    text-align: center;
-    margin-bottom: 1em;
-    list-style: none;
-}
