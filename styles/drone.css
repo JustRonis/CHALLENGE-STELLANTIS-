@@ -57,3 +57,24 @@ body{
     margin-bottom: 0.5em;
 }
 
+#btn_apresentacao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 3em;
+    width: 100%;
+    background: linear-gradient(to right, #1aff1a, rgb(146, 248, 126));
+    color: black;
+    font-size: 17px;
+
+}
+
+#btn_apresentacao:hover{
+    transform: scale(1.1);
+    transition: transform .5s linear;
+    font-weight: bold;
+}
