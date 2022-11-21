@@ -33,7 +33,7 @@ header h1{
 .galeria_itens{
     width: 550px;
     height: 550px;
-    border: 10px solid #fff;
+    border: 10px solid #1aff1a;
     box-shadow: 5px 5px 5px #0006;
     flex-grow: 1;
 }
